@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "button-spin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 238,
+				"h": 225
+			},
+			"scale": 0.46875,
+			"frames": [
+				{
+					"filename": "skull-hover.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 134,
+						"h": 153
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 134,
+						"h": 153
+					}
+				},
+				{
+					"filename": "skull-spin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 108,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 100,
+						"h": 108
+					},
+					"frame": {
+						"x": 137,
+						"y": 1,
+						"w": 100,
+						"h": 108
+					}
+				},
+				{
+					"filename": "skull-normal.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 113
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 113
+					},
+					"frame": {
+						"x": 137,
+						"y": 111,
+						"w": 96,
+						"h": 113
+					}
+				},
+				{
+					"filename": "spin-text.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 90,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 156,
+						"w": 90,
+						"h": 60
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:454bef38b6d72bb3533efddb0790b978:524c3c8f596f38947c92761fdf15e5b9:6fc99846931cce69ab8ac1473b02cf96$"
+	}
+}

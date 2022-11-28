@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "thunder.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 944,
+				"h": 608
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Thuder Effect_00000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 119,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 237,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 355,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 473,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 591,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 709,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 827,
+						"y": 1,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 1,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 119,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00024.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 119,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 237,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 355,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 473,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 591,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 709,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 827,
+						"y": 153,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 1,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 119,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 237,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 355,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 473,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 591,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00022.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 709,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00023.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 827,
+						"y": 305,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00025.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 1,
+						"y": 457,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00026.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 119,
+						"y": 457,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00027.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 237,
+						"y": 457,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00028.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 355,
+						"y": 457,
+						"w": 116,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Thuder Effect_00029.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 150
+					},
+					"frame": {
+						"x": 473,
+						"y": 457,
+						"w": 116,
+						"h": 150
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7157d1e6714482962f75897dc6498cd8:7f62f6338cec4edf29c7f1246e00f5d2:77edbb2be22f3c6c0260e171cb4e8461$"
+	}
+}

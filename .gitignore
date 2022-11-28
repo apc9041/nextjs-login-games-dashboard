@@ -8,17 +8,29 @@
 # testing
 /coverage
 
+# next.js
+/.next/
+/out/
+
 # production
-/frontend/.next
+/build
 
 # misc
 .DS_Store
-# .env.localhost
-# .env.development
-# .env.production
+*.pem
 
+# debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
 
-package-lock.json
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

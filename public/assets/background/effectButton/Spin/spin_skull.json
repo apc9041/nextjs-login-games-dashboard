@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "spin_skull.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 1020
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SpinSkull_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 264,
+						"h": 255
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 264,
+						"h": 255
+					}
+				},
+				{
+					"filename": "SpinSkull_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 264,
+						"h": 255
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 264,
+						"h": 255
+					}
+				},
+				{
+					"filename": "SpinSkull_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 257,
+						"h": 261
+					},
+					"frame": {
+						"x": 1,
+						"y": 258,
+						"w": 257,
+						"h": 261
+					}
+				},
+				{
+					"filename": "SpinSkull_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 257,
+						"h": 261
+					},
+					"frame": {
+						"x": 1,
+						"y": 258,
+						"w": 257,
+						"h": 261
+					}
+				},
+				{
+					"filename": "SpinSkull_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 3,
+						"w": 251,
+						"h": 267
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 251,
+						"h": 267
+					}
+				},
+				{
+					"filename": "SpinSkull_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 3,
+						"w": 251,
+						"h": 267
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 251,
+						"h": 267
+					}
+				},
+				{
+					"filename": "SpinSkull_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 260,
+						"h": 258
+					},
+					"frame": {
+						"x": 267,
+						"y": 1,
+						"w": 260,
+						"h": 258
+					}
+				},
+				{
+					"filename": "SpinSkull_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 260,
+						"h": 258
+					},
+					"frame": {
+						"x": 267,
+						"y": 1,
+						"w": 260,
+						"h": 258
+					}
+				},
+				{
+					"filename": "SpinSkull_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 258,
+						"h": 257
+					},
+					"frame": {
+						"x": 529,
+						"y": 1,
+						"w": 258,
+						"h": 257
+					}
+				},
+				{
+					"filename": "SpinSkull_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 258,
+						"h": 257
+					},
+					"frame": {
+						"x": 529,
+						"y": 1,
+						"w": 258,
+						"h": 257
+					}
+				},
+				{
+					"filename": "SpinSkull_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 7,
+						"w": 234,
+						"h": 262
+					},
+					"frame": {
+						"x": 789,
+						"y": 1,
+						"w": 234,
+						"h": 262
+					}
+				},
+				{
+					"filename": "SpinSkull_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 7,
+						"w": 234,
+						"h": 262
+					},
+					"frame": {
+						"x": 789,
+						"y": 1,
+						"w": 234,
+						"h": 262
+					}
+				},
+				{
+					"filename": "SpinSkull_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 269,
+						"h": 245
+					},
+					"frame": {
+						"x": 260,
+						"y": 261,
+						"w": 269,
+						"h": 245
+					}
+				},
+				{
+					"filename": "SpinSkull_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 269,
+						"h": 245
+					},
+					"frame": {
+						"x": 260,
+						"y": 261,
+						"w": 269,
+						"h": 245
+					}
+				},
+				{
+					"filename": "SpinSkull_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 12,
+						"w": 251,
+						"h": 258
+					},
+					"frame": {
+						"x": 531,
+						"y": 260,
+						"w": 251,
+						"h": 258
+					}
+				},
+				{
+					"filename": "SpinSkull_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 12,
+						"w": 251,
+						"h": 258
+					},
+					"frame": {
+						"x": 531,
+						"y": 260,
+						"w": 251,
+						"h": 258
+					}
+				},
+				{
+					"filename": "SpinSkull_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 7,
+						"w": 237,
+						"h": 266
+					},
+					"frame": {
+						"x": 784,
+						"y": 265,
+						"w": 237,
+						"h": 266
+					}
+				},
+				{
+					"filename": "SpinSkull_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 7,
+						"w": 237,
+						"h": 266
+					},
+					"frame": {
+						"x": 784,
+						"y": 265,
+						"w": 237,
+						"h": 266
+					}
+				},
+				{
+					"filename": "SpinSkull_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 23,
+						"w": 269,
+						"h": 239
+					},
+					"frame": {
+						"x": 260,
+						"y": 508,
+						"w": 269,
+						"h": 239
+					}
+				},
+				{
+					"filename": "SSpinSkull_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 23,
+						"w": 269,
+						"h": 239
+					},
+					"frame": {
+						"x": 260,
+						"y": 508,
+						"w": 269,
+						"h": 239
+					}
+				},
+				{
+					"filename": "SpinSkull_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 7,
+						"w": 242,
+						"h": 270
+					},
+					"frame": {
+						"x": 254,
+						"y": 749,
+						"w": 242,
+						"h": 270
+					}
+				},
+				{
+					"filename": "SpinSkull_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 7,
+						"w": 242,
+						"h": 270
+					},
+					"frame": {
+						"x": 254,
+						"y": 749,
+						"w": 242,
+						"h": 270
+					}
+				},
+				{
+					"filename": "SpinSkull_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 12,
+						"w": 233,
+						"h": 258
+					},
+					"frame": {
+						"x": 531,
+						"y": 520,
+						"w": 233,
+						"h": 258
+					}
+				},
+				{
+					"filename": "SpinSkull_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 12,
+						"w": 233,
+						"h": 258
+					},
+					"frame": {
+						"x": 531,
+						"y": 520,
+						"w": 233,
+						"h": 258
+					}
+				},
+				{
+					"filename": "SpinSkull_00025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 21,
+						"w": 257,
+						"h": 244
+					},
+					"frame": {
+						"x": 766,
+						"y": 533,
+						"w": 257,
+						"h": 244
+					}
+				},
+				{
+					"filename": "SpinSkull_00026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 21,
+						"w": 257,
+						"h": 244
+					},
+					"frame": {
+						"x": 766,
+						"y": 533,
+						"w": 257,
+						"h": 244
+					}
+				},
+				{
+					"filename": "SpinSkull_00027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 19,
+						"w": 262,
+						"h": 236
+					},
+					"frame": {
+						"x": 498,
+						"y": 780,
+						"w": 262,
+						"h": 236
+					}
+				},
+				{
+					"filename": "SpinSkull_00028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 19,
+						"w": 262,
+						"h": 236
+					},
+					"frame": {
+						"x": 498,
+						"y": 780,
+						"w": 262,
+						"h": 236
+					}
+				},
+				{
+					"filename": "SpinSkull_00029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 27,
+						"w": 261,
+						"h": 230
+					},
+					"frame": {
+						"x": 762,
+						"y": 780,
+						"w": 261,
+						"h": 230
+					}
+				},
+				{
+					"filename": "SpinSkull_00030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 27,
+						"w": 261,
+						"h": 230
+					},
+					"frame": {
+						"x": 762,
+						"y": 780,
+						"w": 261,
+						"h": 230
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1236be03cebfe718ada9dd93fee67fb8:094e65da1e742043f0cac0a681512715:1332242eff6063874d0bedca942eca8b$"
+	}
+}

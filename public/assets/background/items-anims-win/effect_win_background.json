@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "effect-win-background.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 444,
+				"h": 440
+			},
+			"scale": 0.2,
+			"frames": [
+				{
+					"filename": "win-effect_00000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 74,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 148,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 222,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 296,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 370,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 88,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 74,
+						"y": 88,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 148,
+						"y": 88,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 222,
+						"y": 88,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 296,
+						"y": 88,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 370,
+						"y": 88,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 74,
+						"y": 176,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 148,
+						"y": 176,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 222,
+						"y": 176,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 296,
+						"y": 176,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 370,
+						"y": 176,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 264,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 74,
+						"y": 264,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 148,
+						"y": 264,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 222,
+						"y": 264,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00022.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 296,
+						"y": 264,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00023.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 370,
+						"y": 264,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00024.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 0,
+						"y": 352,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00025.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 74,
+						"y": 352,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00026.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 148,
+						"y": 352,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00027.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 222,
+						"y": 352,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00028.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 296,
+						"y": 352,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "win-effect_00029.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 370,
+						"y": 352,
+						"w": 74,
+						"h": 88
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b9d0c7cc0b73ace98cac995b522d47be:268f0b1739075fddf6235625c8d99336:9b74c017a9c96c1181b7ecc658d2106f$"
+	}
+}

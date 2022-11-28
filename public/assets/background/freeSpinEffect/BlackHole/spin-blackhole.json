@@ -1,0 +1,1280 @@
+{
+	"textures": [
+		{
+			"image": "spin-blackhole.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3996,
+				"h": 1665
+			},
+			"scale": 0.83333,
+			"frames": [
+				{
+					"filename": "Spin Black Hole_00000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 333,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 666,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 999,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1332,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1665,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1998,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2331,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2664,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2997,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3330,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3663,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 0,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 333,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 666,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 999,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1332,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1665,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1998,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2331,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2664,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2997,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00022.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3330,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00023.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3663,
+						"y": 333,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00024.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 0,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00025.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 333,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00026.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 666,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00027.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 999,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00028.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1332,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00029.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1665,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00030.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1998,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00031.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2331,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00032.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2664,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00033.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2997,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00034.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3330,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00035.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3663,
+						"y": 666,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00036.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 0,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00037.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 333,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00038.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 666,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00039.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 999,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00040.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1332,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00041.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1665,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00042.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1998,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00043.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2331,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00044.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2664,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00045.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2997,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00046.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3330,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00047.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3663,
+						"y": 999,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00048.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 0,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00049.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 333,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00050.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 666,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00051.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 999,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00052.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1332,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00053.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1665,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00054.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 1998,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00055.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2331,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00056.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2664,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00057.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 2997,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00058.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3330,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				},
+				{
+					"filename": "Spin Black Hole_00059.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 333
+					},
+					"frame": {
+						"x": 3663,
+						"y": 1332,
+						"w": 333,
+						"h": 333
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:49f623055c12f760ef6920e27559cb53:4901a609966bd6a6aefeb2434a80079a:91dc405c1f55f115a10d01644ef5fe2a$"
+	}
+}

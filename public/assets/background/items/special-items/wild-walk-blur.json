@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "wild-walk-blur.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 675,
+				"h": 930
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blur-effect.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 950
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 11,
+						"w": 673,
+						"h": 928
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 673,
+						"h": 928
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:708bce0f5cc4fabf8de673db23a7fb4a:3933514ea5a1464f475bc1bfd3aa68e2:c9ca02aac1fb5085eff3bc2f571a0aac$"
+	}
+}

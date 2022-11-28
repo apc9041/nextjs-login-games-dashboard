@@ -1,0 +1,1910 @@
+{
+	"textures": [
+		{
+			"image": "smoke-expading-wild.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1771,
+				"h": 774
+			},
+			"scale": 0.3,
+			"frames": [
+				{
+					"filename": "Wild Effect00.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 77,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 154,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 154,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 231,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect09.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 308,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 385,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 462,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 539,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 539,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 616,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 693,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 770,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 847,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 924,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 924,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1001,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1078,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1155,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect23.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1232,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect24.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1232,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect25.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1309,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect26.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1309,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect27.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1386,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect28.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1386,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect29.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1463,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect30.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1463,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect31.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1540,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect32.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1540,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect33.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1617,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect34.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1617,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect35.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1694,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect36.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1694,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect37.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect38.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect39.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 77,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect40.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 154,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect41.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 231,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect42.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 308,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect43.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 385,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect44.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 462,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect45.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 539,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect46.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 616,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect47.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 693,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect48.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 770,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect49.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 847,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect50.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 924,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect51.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1001,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect52.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1001,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect53.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1078,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect54.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1078,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect55.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1155,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect56.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1155,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect57.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1232,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect58.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1309,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect59.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1386,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1463,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect61.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1540,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect62.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1617,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect63.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1694,
+						"y": 258,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect64.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect65.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 77,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect66.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 154,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect67.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 231,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect68.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 308,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect69.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 385,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect70.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 462,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect71.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 539,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect72.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 539,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect73.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 616,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect74.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 693,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect75.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 770,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect76.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 847,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect77.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 924,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect78.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 924,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect79.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1001,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect80.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1078,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect81.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1155,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect82.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1232,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect83.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1309,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect84.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1309,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect85.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1386,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect86.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1463,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect87.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1540,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect88.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1617,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Wild Effect89.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 258
+					},
+					"frame": {
+						"x": 1694,
+						"y": 516,
+						"w": 77,
+						"h": 258
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8bdc7b946282cae38042e7ea5c039944:62c210860669760ab37ab3e0fe76603a:2d0382da4d92c85c71e3f8dd929719c4$"
+	}
+}

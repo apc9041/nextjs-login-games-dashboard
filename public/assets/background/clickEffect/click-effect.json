@@ -1,0 +1,1070 @@
+{
+	"textures": [
+		{
+			"image": "click-effect.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1200,
+				"h": 200
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Effect Click_00000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 100,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 100,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 200,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 200,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 300,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 300,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 400,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 400,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 500,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 500,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 600,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 600,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 700,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 700,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 800,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 800,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 900,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 900,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1000,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00022.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1000,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00023.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1100,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00024.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1100,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00025.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 0,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00026.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 0,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00027.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 0,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00028.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 100,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00029.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 100,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00030.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 200,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00031.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 200,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00032.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 300,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00033.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 300,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00034.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 400,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00035.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 400,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00036.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 500,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00037.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 500,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00038.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 600,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00039.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 600,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00040.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 700,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00041.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 700,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00042.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 800,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00043.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 800,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00044.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 900,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00045.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 900,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00046.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1000,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00047.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1000,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00048.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1100,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Effect Click_00049.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1100,
+						"y": 100,
+						"w": 100,
+						"h": 100
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8a64ffb593da396930036f635c493879:a8642099679402306d224793787e2fdb:582b7fd115bd0fb3fce11ca0eb58024c$"
+	}
+}
