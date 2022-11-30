@@ -22,9 +22,9 @@ const Navbar = () => {
           <Image src= '/img/Logo.png' alt='' width={170} height={100}/>
         </div>
         <div className='lf'>
-        <NavLink href="/login" privateRoute={false}>
+        {/* <NavLink href="/login" privateRoute={false}>
         <p style={{color: 'whitesmoke'}}>Login</p>
-        </NavLink>
+        </NavLink> */}
         {/* <Link href="/user">
           <a>Profile</a>
         </Link> */}
