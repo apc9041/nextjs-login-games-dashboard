@@ -1,16 +1,18 @@
 import LoginForm from './LoginForm';
+import Image from 'next/image'
 
 const Login = () => (
   <>
-    <center>
-      <div style={{
-        backgroundColor: 'gray', width: '600px', height: '220px', borderRadius: '10px', opacity: '0.5'
-      }}>
+    <center style={{width: '100vw', height:'100vh', position:'relative'}}>
+      <div className='loginContainer'>
         <h3 className="title is-3" style={{ color: 'white' }}>Login</h3>
         <LoginForm />
       </div>
+      <div className='characterBox' style={{width: '100vw', height:'100vh'}}>
+        <Image className='characterBox1' src= '/img/character1.png' alt='' width={280} height={500} style={{position:'absolute'}}/>
+      </div>
     </center>
   </>
-);
+); 
 
 export default Login;

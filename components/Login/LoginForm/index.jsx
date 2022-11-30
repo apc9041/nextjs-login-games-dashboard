@@ -17,7 +17,6 @@ const LoginForm = () => {
     <form
       onSubmit={handleSubmit}
       className="container"
-      style={{ width: '540px' }}
     >
       <div className="field">
         <p className="control has-icons-left">
