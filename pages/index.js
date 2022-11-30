@@ -20,9 +20,13 @@ const Index = () => {
 }, []);
   
   return(
+    <div style={{ 
+      backgroundColor: `black` 
+    }}>
   <Layout title="Home">
     <Dashboard />
   </Layout>
+  </div>
   ) 
 }
 

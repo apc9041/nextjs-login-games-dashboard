@@ -35,5 +35,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Version
 
+npm install --save react-redux
+
 npm install --save next-redux-wrapper
 "next-redux-wrapper": "^6.0.2"
+
+npm install react@18 react-dom@18 @types/react@18 @types/react-dom@18
