@@ -5,16 +5,16 @@ import { setCookie, removeCookie } from '../../utils/cookie';
 import { createError, removeError } from './errorActions';
 
 // gets token from the api and stores it in the redux store and in a cookie
-const authenticate = ({ email, password }, type) => {
+const authenticate = ({ username, password }, type) => {
   if (type !== 'login' && type !== 'register') {
     throw new Error('Wront API call!');
   }
   return async dispatch => {
-    const formData = { email, password };
+    const formData = { username, password };
     try {
       const {
         data: { token },
-      } = await axios.post(`/${type}`, formData);
+      } = await axios.post(`https://api-creepy.slotify.pro/users/${type}`, formData);
       setCookie('token', token);
       Router.push('/');
       dispatch(removeError());

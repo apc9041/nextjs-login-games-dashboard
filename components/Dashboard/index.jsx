@@ -1,9 +1,11 @@
-const Dashboard = () => (
+const Dashboard = () => {
+
+  return(
   <>
-    <h2 className="title is-2">Authentication with Next.js and JWT</h2>
-    <img src="img/next-js.png" />
-    <p>Demonstrating the authentication of Next.js application using JWT.</p>
-  </>
-);
+    <h2 className="title is-2">Phaser</h2>
+    <p>Main Game</p>
+  
+  </>)
+};
 
 export default Dashboard;
