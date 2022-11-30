@@ -1,8 +1,8 @@
 import App from 'next/app';
 import { wrapper } from '../redux';
 import { removeError } from '../redux/actions/errorActions';
-import { useDispatch } from 'react-redux';
-import '../styles/globals.css'
+// import { useDispatch } from 'react-redux';
+import '../styles/globals.css';
 
 
 class MyApp extends App {

@@ -1,18 +1,18 @@
-import Phaser from "phaser";
+import Phaser from 'phaser';
 
 // import Config from "../config";
 
-import axios from "axios";
+import axios from 'axios';
 
 export default class PreloadScene extends Phaser.Scene {
     constructor() {
-        super({ key: "Preload" });
+        super({ key: 'Preload' });
     }
 
     preload() {
-        console.log('scene PreloadScene')
+        console.log('scene PreloadScene');
         //load image
-        this.load.path = "../../assets/";
+        this.load.path = '../../assets/';
 
         // this.load.atlas(
         //     "about",
@@ -40,12 +40,12 @@ export default class PreloadScene extends Phaser.Scene {
         // this.load.image("slot_frame", "background/gameScene/Frame_Slot.png");
         // this.load.image("slot_bg", "background/gameScene/Background_Slot.png");
         this.load.image(
-            "slot_top_frame",
-            "background/gameScene/slot-top-frame.png"
+            'slot_top_frame',
+            'background/gameScene/slot-top-frame.png'
         );
         this.load.image(
-            "slot_footer_frame",
-            "background/gameScene/slot-footer-frame.png"
+            'slot_footer_frame',
+            'background/gameScene/slot-footer-frame.png'
         );
 
         // //load balance page components
@@ -273,9 +273,9 @@ export default class PreloadScene extends Phaser.Scene {
         // );
 
         this.load.atlas(
-            "allSlotFrame",
-            "background/sprite_slotFrame/slot-frame.png",
-            "background/sprite_slotFrame/slot-frame.json"
+            'allSlotFrame',
+            'background/sprite_slotFrame/slot-frame.png',
+            'background/sprite_slotFrame/slot-frame.json'
         );
 
         // //load special score items
@@ -395,9 +395,9 @@ export default class PreloadScene extends Phaser.Scene {
 
         // //add sprite onClick All
         this.load.atlas(
-            "effectOnClick",
-            "background/clickEffect/click-effect.png",
-            "background/clickEffect/click-effect.json"
+            'effectOnClick',
+            'background/clickEffect/click-effect.png',
+            'background/clickEffect/click-effect.json'
         );
 
         // //add bonus freeSpin circle
@@ -621,16 +621,16 @@ export default class PreloadScene extends Phaser.Scene {
         // await this.loadUser();
         // await this.loadSettings();
 
-        this.scene.start("MainScene");
+        this.scene.start('MainScene');
     }
 
     async loadSettings() {
         await axios
-            .get("https://api-creepy.slotify.pro/games/settings")
-            .then(function(response) {
+            .get('https://api-creepy.slotify.pro/games/settings')
+            .then(function (response) {
                 self.axiosExperiment = response.data.message;
                 // console.log(response.data, this.axiosExperiment);
-                console.log("response", response.data);
+                console.log('response', response.data);
 
                 // Config.server_settings = response.data;
             });
@@ -638,20 +638,20 @@ export default class PreloadScene extends Phaser.Scene {
 
     async loadUser() {
         await axios
-            .post("https://api-creepy.slotify.pro/users/login", {
-                address: "0x9C7F84380A95e227d1a5f3c892536DFEA7653cE8",
-                msg: "Some Message",
-                signed: "0x396a9b19cf4c75de0f2c91dd0ba99db4edeb7798869cbd3c810c10bce28dc9e3413b06aa090e6922f7bc24d189f4dc76dd410e9623cbe6eb322d0ea0f3c238341b",
+            .post('https://api-creepy.slotify.pro/users/login', {
+                address: '0x9C7F84380A95e227d1a5f3c892536DFEA7653cE8',
+                msg: 'Some Message',
+                signed: '0x396a9b19cf4c75de0f2c91dd0ba99db4edeb7798869cbd3c810c10bce28dc9e3413b06aa090e6922f7bc24d189f4dc76dd410e9623cbe6eb322d0ea0f3c238341b',
             })
-            .then(function(response) {
+            .then(function (response) {
                 self.axiosExperiment = response.data.message;
                 // console.log(response.data, this.axiosExperiment);
-                console.log("response user", response.data);
+                console.log('response user', response.data);
 
                 // Config.server_settings = response.data;
                 // this.response.data.token.saveLocalStorage();
                 const token = response.data.token;
-                localStorage.setItem("token", token);
+                localStorage.setItem('token', token);
             });
     }
 

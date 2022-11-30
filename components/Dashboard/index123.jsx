@@ -2,15 +2,15 @@
 
 function Dashboard() {
 
-function onClickVonder() {
-  window.open("https://vonder.slotify.pro", "_blank")
-}
-function onClickMaki() {
-  window.open("https://maki.slotify.pro", "_blank")
+  function onClickVonder() {
+    window.open('https://vonder.slotify.pro', '_blank');
+  }
+  function onClickMaki() {
+    window.open('https://maki.slotify.pro', '_blank');
 
-}function onClickCreepy() {
-  window.open("https://creepy.slotify.pro", "_blank")
-}
+  } function onClickCreepy() {
+    window.open('https://creepy.slotify.pro', '_blank');
+  }
 
   return (
     <div>

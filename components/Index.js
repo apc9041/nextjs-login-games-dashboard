@@ -1,16 +1,16 @@
-import Phaser from "phaser";
-import MainScene from "../components/MainScene";
-import Preload from "../components/Preload";
-import { useEffect } from "react";
+import Phaser from 'phaser';
+import MainScene from '../components/MainScene';
+import Preload from '../components/Preload';
+import { useEffect } from 'react';
 
 export default function Index() {
     useEffect(() => {
         loadGame();
-        console.log("load game");
+        console.log('load game');
     }, []);
 
     const loadGame = async () => {
-        if (typeof window !== "object") {
+        if (typeof window !== 'object') {
             return;
         }
 
@@ -20,15 +20,15 @@ export default function Index() {
             height: 720,
             // width: window.innerWidth * window.devicePixelRatio,
             // height: window.innerHeight * window.devicePixelRatio,
-            backgroundColor: "#27385e",
+            backgroundColor: '#27385e',
             physics: {
-                default: "arcade",
+                default: 'arcade',
                 arcade: {
                     gravity: { y: 200 },
                 },
             },
 
-            parent: "game",
+            parent: 'game',
             fps: {
                 forceSetTimeOut: true,
                 min: 30,

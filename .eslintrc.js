@@ -1,4 +1,9 @@
 module.exports = {
+  eslint: {
+    // Warning: This allows production builds to successfully complete even if
+    // your project has ESLint errors.
+    ignoreDuringBuilds: true,
+  },
   env: {
     browser: true,
     node: true,
@@ -21,3 +26,9 @@ module.exports = {
     'no-console': 1,
   },
 };
+
+
+//json
+// {
+//   "extends": "next/core-web-vitals"
+// }

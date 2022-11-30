@@ -1,6 +1,6 @@
 import { useSelector, useDispatch } from 'react-redux';
 
-import Link from 'next/link';
+// import Link from 'next/link';
 import NavLink from './NavLink/';
 
 import actions from '../../../redux/actions/';
@@ -19,7 +19,7 @@ const Navbar = () => {
           {/* <a>Register</a> */}
         </NavLink>
         <NavLink href="/login" privateRoute={false}>
-        <p style={{color: "whitesmoke"}}>Login</p>
+        <p style={{color: 'whitesmoke'}}>Login</p>
         </NavLink>
         {/* <Link href="/user">
           <a>Profile</a>

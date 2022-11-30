@@ -10,7 +10,7 @@ const LoginForm = () => {
   const handleSubmit = e => {
     e.preventDefault();
     dispatch(actions.authenticate({ username, password }, 'login'));
-    console.log('username', username)
+    console.log('username', username);
   };
 
   return (
