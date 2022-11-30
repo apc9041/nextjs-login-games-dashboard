@@ -18,7 +18,7 @@ function onClickMaki() {
         <div className="flex-container-1">
 
           <li type="none" style={{ textAlign: 'left' }}>
-            <div style={{ backgroundColor: 'black', width: '100px', height: '100px' }}>
+            <div style={{ backgroundColor: 'white', width: '100px', height: '100px' }}>
               <img src="https://media0.giphy.com/media/kEROLGl0EjpjyFCMuF/giphy.gif?cid=6c09b952plr91xfjr1uo3ahoaqjk6tjhrlxd46mrqwctpdmt&rid=giphy.gif&ct=s" width="99px"
                 height="99px" />
             </div></li>

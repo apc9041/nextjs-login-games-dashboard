@@ -16,7 +16,7 @@ const authenticate = ({ username, password }, type) => {
         data: { token },
       } = await axios.post(`https://api-creepy.slotify.pro/users/${type}`, formData);
       setCookie('token', token);
-      Router.push('/');
+      Router.push('https://the-creepy-guy.web.app');
       dispatch(removeError());
       dispatch({ type: AUTHENTICATE, payload: token });
     } catch ({ response }) {

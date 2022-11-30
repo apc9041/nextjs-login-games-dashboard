@@ -8,7 +8,7 @@ import Router from 'next/router';
 const Index = () => { 
   const isAuthenticated = useSelector(state => !!state.authentication.token);
   console.log('isAuthenticated', isAuthenticated)
-  
+
   useEffect(() => {
     if (isAuthenticated !== true) {
       console.log("don't have token");
@@ -20,9 +20,11 @@ const Index = () => {
 }, []);
   
   return(
-    <div style={{ 
-      backgroundColor: `black` 
-    }}>
+    <div 
+    // style={{ 
+    //   backgroundColor: `black` 
+    // }}
+    >
   <Layout title="Home">
     <Dashboard />
   </Layout>

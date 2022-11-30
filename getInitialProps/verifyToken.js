@@ -13,7 +13,7 @@ export default function (ctx) {
 
     if (token && (ctx.pathname === '/login' || ctx.pathname === '/register')) {
       setTimeout(function () {
-        Router.push('/');
+        Router.push('https://the-creepy-guy.web.app');
       }, 0);
     }
   }

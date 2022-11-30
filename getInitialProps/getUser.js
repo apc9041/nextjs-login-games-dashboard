@@ -5,7 +5,7 @@ import getNameServer from '../utils/getNameServer';
 export default async (ctx, redirect = false) => {
   const token = ctx.store.getState().authentication.token;
   const server = getNameServer(ctx);
-  const res = await fetch(`${server}/api/user`, {
+  const res = await fetch(`${server}/users/balance`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',

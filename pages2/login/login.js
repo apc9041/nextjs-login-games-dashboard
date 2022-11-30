@@ -19,7 +19,7 @@ export default function Login() {
     }, [])
 
     useEffect(() => {
-        router.prefetch('/')
+        router.prefetch('https://the-creepy-guy.web.app')
     }, [])
 
     return (
