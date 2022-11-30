@@ -11,18 +11,19 @@ const Navbar = () => {
   return (
     <div className="tabs is-centered">
       <ul>
-        <Link href="/">
+        {/* <Link href="/">
           <a>Home</a>
-        </Link>
+        </Link> */}
         <NavLink href="/register" privateRoute={false}>
-          Register
+          <p style={{color: 'whitesmoke'}}>Register</p>
+          {/* <a>Register</a> */}
         </NavLink>
         <NavLink href="/login" privateRoute={false}>
-          Login
+        <p style={{color: "whitesmoke"}}>Login</p>
         </NavLink>
-        <Link href="/user">
+        {/* <Link href="/user">
           <a>Profile</a>
-        </Link>
+        </Link> */}
         {isAuthenticated && (
           <li onClick={() => dispatch(actions.deauthenticate())}>
             <a>Log Out</a>

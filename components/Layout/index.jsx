@@ -1,17 +1,18 @@
 import Head from './Head/';
 import Navbar from './Navbar';
 import ErrorMessage from './ErrorMessage';
-import img from '../../public/img/creepyguy.png'
+// import bg from '../../public/img/photo_2022-11-30_11-59-48.jpg'
 
 const Layout = ({ children, title }) => {
+
   return (
-    <div style={{ 
-      // backgroundImage: `url("https://via.placeholder.com/500")` 
-      backgroundImage: `url('${img}')` 
-    }}>
-    {/* <div style={{ 
-      backgroundColor: `gray` 
-    }}> */}
+    <div 
+    // style={{
+    //   backgroundImage: `url(${bg.src})`,
+    //   width: '100%',
+    //   height: '100%',
+    // }}
+    >
       <Head title={title} />
       <Navbar />
       <ErrorMessage />

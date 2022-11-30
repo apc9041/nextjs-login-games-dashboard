@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import actions from '../../../redux/actions';
-import axios from 'axios';
 
 const LoginForm = () => {
   const dispatch = useDispatch();
@@ -12,21 +11,6 @@ const LoginForm = () => {
     e.preventDefault();
     dispatch(actions.authenticate({ username, password }, 'login'));
     console.log('username', username)
-
-    // async function loginFunc() {
-    // await axios
-    //         .post("https://api-creepy.slotify.pro/users/login", {
-    //           username: username,
-    //           password: password  
-    //       })
-    //         .then(function(response) {
-    //             self.axiosExperiment = response.data.message;
-    //             console.log("response user", response.data);
-    //             const token = response.data.token;
-    //             localStorage.setItem("token", token);
-    //         });
-    //       }
-    //       loginFunc()
   };
 
   return (
@@ -46,7 +30,7 @@ const LoginForm = () => {
             onChange={e => setUsername(e.target.value)}
           />
           <span className="icon is-small is-left">
-            <i className="material-icons md-dark md-inactive">email</i>
+            <i className="material-icons md-dark md-inactive">person</i>
           </span>
         </p>
       </div>
